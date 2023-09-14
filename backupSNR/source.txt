@@ -1,0 +1,2 @@
+192.168.4.2 core_switch
+192.168.24.247 servernaya
